@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+ENV/
+.idea/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# Frontend
+node_modules/
+dist/
